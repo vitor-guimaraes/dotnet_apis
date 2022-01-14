@@ -9,6 +9,7 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using GeekQuiz.Models;
+using GeekQuiz.ViewModels.Account;
 
 namespace GeekQuiz.Controllers
 {

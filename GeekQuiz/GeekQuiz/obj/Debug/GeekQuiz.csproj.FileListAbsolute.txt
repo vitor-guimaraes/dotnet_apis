@@ -1,0 +1,1 @@
+C:\Users\vitor.guimaraes.GRUPOLTM\Desktop\dotnet_apis\GeekQuiz\GeekQuiz\obj\Debug\GeekQuiz.csproj.CoreCompileInputs.cache

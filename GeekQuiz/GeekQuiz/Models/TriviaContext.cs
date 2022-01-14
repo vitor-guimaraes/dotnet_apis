@@ -1,5 +1,4 @@
-﻿using Microsoft.Data.Entity;
-using GeekQuiz.Models;
+﻿using System.Data.Entity;
 
 namespace GeekQuiz.Models
 {
@@ -20,7 +19,7 @@ namespace GeekQuiz.Models
         {
         }
 
-        protected override void OnModelCreating(ModelBuilder builder)
+        protected override void OnModelCreating(DbModelBuilder builder)
         {
         }
 
